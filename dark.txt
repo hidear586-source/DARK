@@ -1,0 +1,16 @@
+ESP_Enabled=true
+ESP_Line=false
+ESP_Distance=true
+ESP_Name=true
+ESP_HealthBar=true
+ESP_TotalCount=true
+ESP_Radar=true
+ESP_WeaponIcon=true
+
+; The following names follow the existing file's FeatureMap mapping.
+AIM_Enabled=false
+AIM_Bot=false
+AIM_Silent=false
+AIM_FOV=false
+AIM_Smooth=false
+AIM_Visible=false
